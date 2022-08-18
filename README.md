@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer and a competitive programmer from India......</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshab1113" alt="keshab1113" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/keshab1113" target="blank"><img src="https://img.shields.io/twitter/follow/keshab1113?logo=twitter&style=for-the-badge" alt="keshab1113" /></a> </p>
 
@@ -31,5 +31,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=keshab1113&show_icons=true&locale=en&layout=compact" alt="keshab1113" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=keshab1113&show_icons=true&locale=en" alt="keshab1113" /></p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keshab1113" alt="keshab1113" /></a> </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=keshab1113&" alt="keshab1113" /></p>
