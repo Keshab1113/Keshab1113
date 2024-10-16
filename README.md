@@ -1,15 +1,15 @@
 ![MasterHead](https://blog.hyperiondev.com/wp-content/uploads/2018/10/Blog-Gif.gif)
 <h1 align="center">Hi 👋, I'm Keshab Das</h1>
-<h3 align="center">A passionate frontend developer and a competitive programmer from India......</h3>
+<h3 align="center">Looking for SDE Internship || Final Year || MERN Stack Web Developer || COMPETITIVE PROGRAMMER || DSA || C & C++ || Java || IT Undergraduate@JGEC'25</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 
 <p align="left"> <a href="https://twitter.com/keshab1113" target="blank"><img src="https://img.shields.io/twitter/follow/keshab1113?logo=twitter&style=for-the-badge" alt="keshab1113" /></a> </p>
 
-- 🌱 I’m currently learning **DSA, Node.js, Python, Flutter, Dart....**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **Frontend Development**
+- 💬 Ask me about **Full Stack Web Development**
 
 - 📫 How to reach me **Keshabdas2003@gmail.com**
 
