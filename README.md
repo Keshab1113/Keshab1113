@@ -1,21 +1,19 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=220&section=header&text=Keshab%20Das&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=56&descSize=17&animation=fadeIn&stroke=a855f7&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:2d1b69,100:0d0221&height=220&section=header&text=Keshab%20Das&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=56&descSize=17&animation=fadeIn" width="100%"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Currently+%40+QuantumHash+Corporation+%F0%9F%92%BC;MERN+%7C+Next.js+%7C+Tailwind+%7C+AI+Integration;Competitive+Programmer+%F0%9F%8F%86+%7C+500%2B+Problems+Solved;B.Tech+IT+Graduate+%40+JGEC+%272025;Building+Scalable+%26+Real-time+Systems+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Currently+%40+QuantumHash+Corporation+%F0%9F%92%BC;MERN+%7C+Next.js+%7C+Tailwind+%7C+AI+Integration;Competitive+Programmer+%F0%9F%8F%86+%7C+500%2B+Problems+Solved;B.Tech+IT+%40+JGEC+2025+%7C+3x+Internships;Building+Scalable+%26+Real-time+Systems+%E2%9A%A1" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=keshab1113&label=Profile%20Views&color=7c3aed&style=for-the-badge&logo=eye" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=keshab1113&label=Profile+Views&color=7c3aed&style=for-the-badge" alt="Profile Views"/>
   &nbsp;
   <a href="https://twitter.com/keshab1113"><img src="https://img.shields.io/twitter/follow/keshab1113?logo=twitter&style=for-the-badge&color=7c3aed&labelColor=0d0221" alt="Twitter"/></a>
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Employed%20%40%20QuantumHash-8b5cf6?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=2d1b69" alt="Employed"/>
+  <img src="https://img.shields.io/badge/Status-Working%20%40%20QuantumHash-8b5cf6?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=2d1b69" alt="Employed"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
@@ -141,30 +139,57 @@ const keshab: Developer = {
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                     🏆  ACHIEVEMENTS UNLOCKED                       ║
-╠══════════════════════════════════════════════════════════════════════╣
-║  🥇  CodeChef Starters 64     →   Global Rank  #1322                ║
-║  🥈  CodeChef Starters 79     →   Global Rank   #745                ║
-║  🧩  LeetCode                 →   280+ Problems Solved              ║
-║  💡  Coding Ninjas             →   500+ Problems Solved              ║
-║  🚀  Hack4Bengal 3.0          →   Hackathon Participant             ║
-║  🌍  JWOC (JGEC Winter Of Code)   →   Open Source Contributor      ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
+### 🏆 Competitive Programming
 
-</div>
+| 🏅 Contest | 🌍 Rank | 🔗 Platform |
+|:---:|:---:|:---:|
+| CodeChef Starters 64 | 🥇 Global Rank **#1322** | CodeChef |
+| CodeChef Starters 79 | 🥈 Global Rank **#745** | CodeChef |
+| LeetCode DSA | 🧩 **280+ Problems** Solved | LeetCode |
+| Coding Ninjas | 💡 **500+ Problems** Solved | Coding Ninjas |
 
 <br/>
 
-🚀 **Hack4Bengal 3.0** — Participated in Hack4Bengal 3.0 Hackathon, collaborating with a team to build and ship a full web project, showcasing engineering skills and networking with industry leaders.
+### 🚀 Events & Open Source
 
-🌍 **JWOC — JGEC Winter of Code** — Contributed to multiple documentation repositories in this open-source event, strengthening collaboration and open-source contribution skills.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-🏆 **CodeChef Competitive Highlights** — Achieved **Global Rank #1322** on Starters 64 and **Global Rank #745** on Starters 79.
+**🔥 Hack4Bengal 3.0**
 
-💡 **DSA Grind** — Solved **280+ problems on LeetCode** and **500+ problems on Coding Ninjas**, consistently sharpening algorithmic thinking.
+> Participated in one of Bengal's biggest hackathons. Built and deployed a full web project with a team, collaborated with industry leaders, and showcased full-stack engineering skills under pressure.
+
+![Hackathon](https://img.shields.io/badge/Hack4Bengal-3.0-FF6B6B?style=flat-square&logo=hackthebox&logoColor=white)
+![Team](https://img.shields.io/badge/Team-Project-4CAF50?style=flat-square&logo=github&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**🌍 JWOC — JGEC Winter of Code**
+
+> Contributed to multiple documentation repositories in this annual open-source event. Strengthened skills in collaboration, version control, and open-source workflows.
+
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-8b5cf6?style=flat-square&logo=opensourceinitiative&logoColor=white)
+![JGEC](https://img.shields.io/badge/JGEC-JWOC-0ea5e9?style=flat-square&logo=gitbook&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📊 DSA Progress
+
+![LeetCode](https://img.shields.io/badge/LeetCode-280%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e)
+&nbsp;
+![Coding Ninjas](https://img.shields.io/badge/Coding%20Ninjas-500%2B%20Solved-E74C3C?style=for-the-badge&logo=codingninjas&logoColor=white&labelColor=1a1a2e)
+&nbsp;
+![CodeChef](https://img.shields.io/badge/CodeChef-Active%20Contestant-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=3d2314)
+&nbsp;
+![Codeforces](https://img.shields.io/badge/Codeforces-Active%20Contestant-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=0d2137)
+
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
@@ -174,13 +199,30 @@ const keshab: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=keshab1113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=ffffff&border_radius=12&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=keshab1113&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=ff6b6b&currStreakLabel=a855f7&border_radius=12" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=keshab1113&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=keshab1113&theme=radical&hide_border=true" />
 
-<br/><br/>
+</div>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshab1113&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=ffffff&border_radius=12&langs_count=8" />
+<div align="center">
+<br/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keshab1113&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+&nbsp;&nbsp;
+<img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keshab1113&theme=radical" />
+</div>
 
+<br/>
+
+<div align="center">
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keshab1113&theme=radical" />
+&nbsp;
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keshab1113&theme=radical" />
+</div>
+
+<br/>
+
+<div align="center">
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keshab1113&theme=radical" />
 </div>
 
 ---
@@ -196,7 +238,7 @@ const keshab: Developer = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshab1113&bg_color=0d1117&color=a855f7&line=7c3aed&point=c084fc&area=true&area_color=2d1b69&hide_border=true&custom_title=Keshab's%20Contribution%20Graph" width="98%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=keshab1113&bg_color=141321&color=a855f7&line=7c3aed&point=c084fc&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
@@ -217,10 +259,6 @@ const keshab: Developer = {
 <br/>
 
 <img src="https://cp-logo.vercel.app/codeforces/keshab1113" alt="Codeforces Rating" height="28"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/LeetCode-280%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Coding%20Ninjas-500%2B%20Solved-E74C3C?style=for-the-badge&logo=codingninjas&logoColor=white&labelColor=1a1a2e"/>
 
 </div>
 
@@ -297,7 +335,6 @@ const keshab: Developer = {
 
 ---
 
-<!-- Snake animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
 </div>
